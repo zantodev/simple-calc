@@ -1,10 +1,10 @@
-# NASA A PICTURE A DAY APP
+# CALCULATOR APP
 
 
 ## How it's made. 
 
-**Tech Used**: HTML | CSS | JAVASCRIPT | API'S
-I really dug into API'S. It took longer to complete the project than expected, but I'm satisfied with everything that is live. 
+**Tech Used**: HTML | CSS | JAVASCRIPT | 
+One of my first complete projects. I was able to accomplish all calculations with simple arithmetic in the html.
 
 ## Optimizations
 In the future, it would be nice to optimize a few things
@@ -15,4 +15,4 @@ In the future, it would be nice to optimize a few things
 
 
 ## Lessons Learned
-Since this was my first API app I had to learn a lot about connecting to JSON files. As it became much more clear I started to feel confident using API's to retrieve information.
+Since this was my first calculator app I had to learn a lot about formulas and placement. I would like to make it dynamic and also make the math with javasript.
